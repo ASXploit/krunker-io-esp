@@ -11,5 +11,5 @@
 > [L] Alphabetical Letter 'L' Key to Toggle ESP Functionality
 
 ###### Updates
-> N / A
+> Idle Anti-Kick
 
