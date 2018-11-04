@@ -10,6 +10,9 @@
 > [;] Semi-colon Key to Toggle Visibility of Menu
 > [L] Alphabetical Letter 'L' Key to Toggle ESP Functionality
 
+###### Updates in Progress
+> Aimbot
+
 ###### Updates
-> N / A
+> 11/4/18 - Added Bunnyhop (Auto Jump)
 
