@@ -8,7 +8,10 @@
 
 ###### Controls
 > [;] Semi-colon Key to Toggle Visibility of Menu
+
 > [L] Alphabetical Letter 'L' Key to Toggle ESP Functionality
+
+> [K] Toggle Bunnyhop [Auto Jump]
 
 ###### Known Issues
 > Typing messages containing hack control keys, Toggles Hacks
