@@ -10,6 +10,9 @@
 > [;] Semi-colon Key to Toggle Visibility of Menu
 > [L] Alphabetical Letter 'L' Key to Toggle ESP Functionality
 
+###### Known Issues
+> Typing messages containing hack control keys, Toggles Hacks
+
 ###### Updates in Progress
 > Aimbot
 
